@@ -1,0 +1,6 @@
+pandas
+requests-html
+youtube-dl
+jupyter
+matplotlib
+seaborn

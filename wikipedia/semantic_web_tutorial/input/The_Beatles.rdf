@@ -1,0 +1,2432 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Harrison">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Lynne">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pete_Best">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ringo_Starr">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Badfinger">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Day_in_the_Life">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glyn_Johns">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Am_the_Walrus">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Be">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rain_(Beatles_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonzo_Dog_Doo-Dah_Band">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eight_Days_a_Week">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Her_Majesty_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It&#39;s_Only_Love">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maxwell&#39;s_Silver_Hammer">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plastic_Ono_Band">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Real_Love_(Beatles_song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_and_Roll_Music">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birthday_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blackbird_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Come_and_Get_It_(Badfinger_song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Be..._Naked">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Be_(1970_film)">
+    <dbo:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Be_(musical)">
+    <dbo:basedOn rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Be_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_My_Dear">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nowhere_Man_(EP)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nowhere_Man_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P.S._I_Love_You_(Beatles_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Secrets_(1992_Australian_film)">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something_New_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles:_The_Collection">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wild_Honey_Pie">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Be_on_My_Way">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Can&#39;t_Buy_Me_Love">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillips&#39;_Sound_Recording_Services">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleanor_Rigby">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_at_The_Cavern_Club">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fab_Four_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Here_Comes_the_Sun">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_So_Tired">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Call_Your_Name">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/No_Reply_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slow_Down_(Larry_Williams_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something_(Beatles_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fab_Four_(tribute)">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wait_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Taste_of_Honey_(song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savoy_Truffle">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apple_to_the_Core">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freddie_Gorman">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Komm,_gib_mir_deine_Hand/Sie_liebt_dich">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honey_Pie">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christmas_Time_(Is_Here_Again)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/When_I_Get_Home">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobody&#39;s_Child_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soldier_of_Love_(Lay_Down_Your_Arms)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We_Can_Work_It_Out">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/From_Me_to_You">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Collection_of_Beatles_Oldies">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meet_the_Beatles!">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paperback_Writer">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_&#39;n&#39;_Roll_Music_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_Long_Tall_Sally">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kum_Back">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fab_Faux">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirque_du_Soleil_discography">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Books_of_Knjige">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:influences rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Japan_Box">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_U.S._Albums">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Words_of_Love">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minóy">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Step_Inside_Love">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watching_Rainbows">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_You&#39;re_Doing">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Anthology_(documentary)">
+    <dbo:composer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:themeMusicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TheBeatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ain&#39;t_She_Sweet_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_to_Me__Bad_to_Me__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_for_Sale_(EP)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_Million_Sellers">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Four_by_the_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Hui">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:influences rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxman">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reel_Music">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Ballads">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Souvenir_of_Their_Visit_to_America">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keep_Your_Hands_Off_My_Baby">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_(The)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Mono_Collection">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Around_the_Beatles">
+    <dbo:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_&amp;_The_Moondogs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_Together_Now">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelle_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She_Said_She_Said">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/There&#39;s_a_Place">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Early_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It&#39;s_All_Too_Much">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jackie_Lee_(Irish_singer)">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piggies">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_I&#39;ve_Got_to_Do">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_My_Loving">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Another_Girl">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby&#39;s_in_Black">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cry_Baby_Cry">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dear_Prudence">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dig_a_Pony">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dizzy,_Miss_Lizzy">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Do_You_Want_to_Know_a_Secret%3F">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fixing_a_Hole">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glass_Onion">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hold_Me_Tight">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Cry_Instead">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Happy_Just_to_Dance_with_You">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Looking_Through_You">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_a_Loser">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ve_Just_Seen_a_Face">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Don&#39;t_Want_to_Spoil_the_Party">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Saw_Her_Standing_There">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Want_to_Tell_You">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/If_I_Fell">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Child">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long_Tall_Sally">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lovely_Rita">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Not_a_Second_Time">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She&#39;s_Leaving_Home">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She&#39;s_a_Woman">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tell_Me_What_You_See">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Things_We_Said_Today">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/This_Boy">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Why_Don&#39;t_We_Do_It_in_the_Road%3F">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yes_It_Is">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Can&#39;t_Do_That">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Never_Give_Me_Your_Money">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiwi_Time">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ultimate_Beatles">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/12-Bar_Original">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lennon_Naked">
+    <dbo:composer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:themeMusicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_fab_four">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_Boy_(Larry_Williams_song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Being_for_the_Benefit_of_Mr._Kite!">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._P._Spencer">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Illustrated_Lyrics">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:author rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fest_for_Beatles_Fans">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Number_Ones">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You&#39;ve_Got_to_Hide_Your_Love_Away">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penny_Lane">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Any_Time_at_All">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everybody&#39;s_Trying_to_Be_My_Baby">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hello,_Goodbye">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madman_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Apollo">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yesterday_and_Today">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_My_Loving_(EP)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John,_Paul,_George,_and_Ringo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John,_Paul,_George_and_Ringo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leave_My_Kitten_Alone__Leave_My_Kitten_Alone__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soldier_of_Love_(Lay_Down_Your_Arms)__Soldier_of_Love_Lay_Down_Your_Arms__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helter_Skelter_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magical_Mystery_Tour">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strawberry_Fields_Forever">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Submarine_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Submarine_(film)">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Submarine_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Submarine_Songtrack">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chains_(Cookies_song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imagine:_John_Lennon">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansas_City_(Leiber_and_Stoller_song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Madonna">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sessions_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sgt._Pepper&#39;s_Lonely_Hearts_Club_Band">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Word_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Brown_Shoe">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sour_Milk_Sea">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_Goes_On_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatlemania_(musical)">
+    <dbo:lyrics rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everybody&#39;s_Got_Something_to_Hide_Except_Me_and_My_Monkey">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Should_Have_Known_Better">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Wanna_Be_Your_Man">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rocky_Raccoon">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1962–1966">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/When_I&#39;m_Sixty-Four">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Coury">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Only_a_Northern_Song">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/20_Greatest_Hits_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mother_Nature&#39;s_Son">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/And_I_Love_Her">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerwin_van_der_Werf">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:influences rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matchbox_(song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Night_Before_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomorrow_Never_Knows_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Back_in_the_U.S.S.R.__Back_in_the_U.S.S.R.__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Back_in_the_U.S.S.R.__Back_in_the_U.S.S.R.__2">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let_It_Be_(song)__Let_It_Be__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twist_and_Shout__Twist_and_Shout__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_in_Italy">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eight_Days_a_Week__Eight_Days_a_Week__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_and_the_moondogs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/MusicGroup" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatParlophoneArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAtcoRecordsArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCapitolRecordsArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215380" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Band" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Group" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAppleRecordsArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVee-JayRecordsArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwanRecordsArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUnitedArtistsRecordsArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishInvasionArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatQuantifiedHumanGroups" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Band_MusicGroup" />
+    <rdfs:label xml:lang="es">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="ar">البيتلز</rdfs:label>
+    <rdfs:label xml:lang="en">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="pt">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="fr">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="nl">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="pl">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="ja">ビートルズ</rdfs:label>
+    <rdfs:label xml:lang="zh">披頭四樂隊</rdfs:label>
+    <rdfs:label xml:lang="de">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="it">The Beatles</rdfs:label>
+    <rdfs:label xml:lang="ru">The Beatles</rdfs:label>
+    <rdfs:comment xml:lang="it">The Beatles è stato un gruppo musicale rock inglese, originario di Liverpool e attivo dal 1960 al 1970. La  ha segnato un&#39;epoca nella musica, nel costume, nella moda e nella pop art. Ritenuti un fenomeno di comunicazione di massa di proporzioni mondiali a distanza di vari decenni dal loro scioglimento ufficiale – e dopo la morte di due dei quattro componenti – i Beatles contano ancora un enorme seguito e numerosi sono i loro fan club esistenti in ogni parte del mondo.Nei loro dieci anni di attività sono stati ufficialmente autori di 211 canzoni.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">The Beatles – zespół rockowy z Liverpoolu, działający od 1960 (wcześniej jako The Quarrymen od 1956 r.) do 1970 roku. Formację tworzyli John Lennon, Paul McCartney, George Harrison oraz Ringo Starr. Jeden z najważniejszych zespołów w historii muzyki rockowej, The Beatles zaczęli jako zespół grający głównie rock ’n’ roll. W miarę rozwoju kariery ich muzyka stała się bardziej zróżnicowana, a na ich albumach pojawiały się utwory gatunków takich jak hard rock, psychodeliczny rock, pop barokowy, blues, a także utwory awangardowe. Przez prawie całe lata sześćdziesiąte wyznaczali nowe trendy muzyczne, a ich utwory były wzorem dla przyszłych zespołów muzycznych. Albumy takie jak Rubber Soul, Revolver, Sgt. Pepper’s Lonely Hearts Club Band, The Beatles i Abbey Road powszechnie były i są uznawane za</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Beatles were an English rock band, formed in Liverpool in 1960. With members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became widely regarded as the foremost and most influential act of the rock era. Rooted in skiffle, beat, and 1950s rock and roll, the Beatles later experimented with several genres, ranging from pop ballads and Indian music to psychedelia and hard rock, often incorporating classical elements in innovative ways. In the early 1960s, their enormous popularity first emerged as &quot;Beatlemania&quot;, but as the group&#39;s music grew in sophistication, led by primary songwriters Lennon and McCartney, they came to be perceived as an embodiment of the ideals shared by the counterculture of the 1960s.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">The Beatles was een popgroep uit de Engelse stad Liverpool. De groep was actief van 1960 tot 1970 en wordt algemeen beschouwd als een van de meest invloedrijke bands uit de geschiedenis van de popmuziek. De bezetting bestond uit John Lennon, Paul McCartney, George Harrison en Ringo Starr; andere vroege leden waren Stuart Sutcliffe en Pete Best. Al vrij snel na hun doorbraak kregen de leden van The Beatles te maken met hysterische reacties van voornamelijk jonge tienermeisjes, die tijdens concerten de muziek met hun gegil overstemden. Voor dit gedrag raakte de term &quot;Beatlemania&quot; in zwang. Tijdens hun carrière verrichtten ze pionierswerk in de geluidsstudio, waarvoor ze in brede kring lof oogstten. Onder hun invloed groeide de popmuziek uit van een op Amerikaanse rhythm-and-blues gebaseerd g</rdfs:comment>
+    <rdfs:comment xml:lang="de">The Beatles waren eine britische Rockband in den 1960er Jahren. Mit mehr als 600 Millionen – nach Schätzungen ihrer Plattenfirma EMI sogar mehr als einer Milliarde – verkauften Tonträgern sind sie die bisher kommerziell erfolgreichste Band der Musikgeschichte.Im Jahr 1970 trennten sich die Wege der vier Bandmitglieder aufgrund interner Spannungen. Die Musiker verfolgten danach erfolgreich eigene Musikprojekte.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">The Beatles est un groupe musical britannique originaire de Liverpool, composé de John Lennon, Paul McCartney, George Harrison et Ringo Starr. Il demeure, en dépit de sa séparation en 1970, l&#39;un des groupes de rock les plus populaires au monde. En dix ans d&#39;existence et seulement huit ans de carrière discographique (de 1962 à 1970), les Beatles ont enregistré douze albums originaux et ont composé plus de 200 chansons. Une productivité particulièrement remarquable dans la période 1963-1966, où, entre les tournées incessantes et la participation à deux longs métrages, ils ont publié sept albums, treize singles et douze EPs, par ailleurs emportés dans un phénomène d&#39;ampleur dénommé Beatlemania.</rdfs:comment>
+    <rdfs:comment xml:lang="es">The Beatles fueron una banda de rock inglesa activa durante la década de 1960, y reconocida como la más exitosa comercialmente y críticamente aclamada en la historia de la música popular. Formada en Liverpool, estuvo constituida desde 1962 por John Lennon (guitarra rítmica, vocalista), Paul McCartney (bajo, vocalista), George Harrison (guitarra solista, vocalista) y Ringo Starr (batería, vocalista). Enraizada en el skiffle y el rock and roll de los años cincuenta, la banda trabajó más tarde con distintos géneros musicales, que iban desde las baladas pop hasta el rock psicodélico, incorporando a menudo elementos clásicos, entre otros, de forma innovadora en sus canciones. La naturaleza de su enorme popularidad, que había emergido primeramente con la moda de la «Beatlemanía», se transformó a</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ザ・ビートルズ（The Beatles）は、イギリス・リヴァプール出身のロックバンドである。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">The Beatles foi uma banda de rock britânica, formada em Liverpool em 1960. É o grupo musical mais bem-sucedido e aclamado da história da música popular. A partir de 1962, o grupo era formado por John Lennon (guitarra rítmica e vocal), Paul McCartney (baixo, piano e vocal), George Harrison (guitarra solo e vocal) e Ringo Starr (bateria e vocal). Enraizada do skiffle e do rock and roll da década de 1950, a banda veio mais tarde a assumir diversos gêneros que vão do folk rock ao rock psicodélico, muitas vezes incorporando elementos da música clássica e outros, em formas inovadoras e criativas. Sua crescente popularidade, que a imprensa britânica chamava de &quot;Beatlemania&quot;, fez com que eles crescessem em sofisticação. Os Beatles vieram a ser percebidos como a encarnação de ideais progressistas e</rdfs:comment>
+    <rdfs:comment xml:lang="ar">البيتلز (The Beatles؛ /ˈbitlz/‏ ذ بيتلز، منحوتة من beat وbeetles &quot;خنافس&quot;) كانت فرقة روك غنائية بريطانية تشكلت في ليفربول في عام 1960، وأصبحت أكبر الفرق الموسيقية نجاحاً وأشهرها في تاريخ الموسيقى الشعبية . تألف فريق البيتلز من جون لينون (غيتار الإيقاع، غناء) وبول مكارتني (غيتار البيس، غناء) وجورج هاريسون (غيتار رئيسي، غناء) ورينغو ستار (الطبل، غناء).</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lennon–McCartney" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles&#39;_recording_technology" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Collaborations_between_ex-Beatles" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nominations_received_by_the_Beatles" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_prizes,_medals_and_awards" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cultural_impact_of_the_Beatles" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Fab_Four" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvfRU9JwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/64838212585502507852" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1299" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07c0j" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ビートルズ" />
+    <owl:sameAs rdf:resource="http://zitgist.com/music/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/The_Beatles" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/비틀즈" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1299" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/The_Beatles?oldid=707215459" />
+    <dbo:abstract xml:lang="pl">The Beatles – zespół rockowy z Liverpoolu, działający od 1960 (wcześniej jako The Quarrymen od 1956 r.) do 1970 roku. Formację tworzyli John Lennon, Paul McCartney, George Harrison oraz Ringo Starr. Jeden z najważniejszych zespołów w historii muzyki rockowej, The Beatles zaczęli jako zespół grający głównie rock ’n’ roll. W miarę rozwoju kariery ich muzyka stała się bardziej zróżnicowana, a na ich albumach pojawiały się utwory gatunków takich jak hard rock, psychodeliczny rock, pop barokowy, blues, a także utwory awangardowe. Przez prawie całe lata sześćdziesiąte wyznaczali nowe trendy muzyczne, a ich utwory były wzorem dla przyszłych zespołów muzycznych. Albumy takie jak Rubber Soul, Revolver, Sgt. Pepper’s Lonely Hearts Club Band, The Beatles i Abbey Road powszechnie były i są uznawane za wyprzedzające swoją erę arcydzieła muzyki rockowej. The Beatles zapoczątkowali i pozostawali nieodłączną częścią muzycznej „inwazji brytyjskiej” na świat, a szczególnie na Amerykę, która pozostawała do tego czasu stosunkowo zamknięta na obce zespoły. W historii amerykańskiego rynku fonograficznego nikt nie sprzedał więcej płyt niż The Beatles. Beatlesi byli pod wieloma względami zespołem wyjątkowym. Nikt inny nie doczekał się tylu analiz, czasem tak dogłębnych, że sami zainteresowani przyznawali że ich nie rozumieli. Ich spuścizna pozostaje inspiracją dla innych muzyków. Mimo że nie byli wirtuozami i nie znali notacji muzycznej, potrafili pogodzić sukces na polu kultury elitarnej z sukcesem na polu kultury masowej. Do The Beatles należy najwięcej muzycznych odkryć oraz rekordów. Zdobyli parę prestiżowych nagród Grammy oraz Oscara za film Let It Be. Koncertowali w Europie, Ameryce, Azji, Australii. Magazyn Rolling Stone umieścił na 1 miejscu, na swojej liście pięciuset najlepszych albumów, płytę Sgt. Pepper’s Lonely Hearts Club Band. W pierwszej dziesiątce znalazły się jeszcze 3 albumy zespołu. W 1988 roku grupa The Beatles została wprowadzona do Rock and Roll Hall of Fame. 4 marca 1996 roku wraz z projektem kompilacyjnym Anthology, światło dzienne ujrzał ostatni nowy materiał The Beatles – kompozycja „Real Love”. Szacuje się, że pod koniec lat 90. sprzedana została miliardowa płyta Beatlesów.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ザ・ビートルズ（The Beatles）は、イギリス・リヴァプール出身のロックバンドである。</dbo:abstract>
+    <dbo:abstract xml:lang="es">The Beatles fueron una banda de rock inglesa activa durante la década de 1960, y reconocida como la más exitosa comercialmente y críticamente aclamada en la historia de la música popular. Formada en Liverpool, estuvo constituida desde 1962 por John Lennon (guitarra rítmica, vocalista), Paul McCartney (bajo, vocalista), George Harrison (guitarra solista, vocalista) y Ringo Starr (batería, vocalista). Enraizada en el skiffle y el rock and roll de los años cincuenta, la banda trabajó más tarde con distintos géneros musicales, que iban desde las baladas pop hasta el rock psicodélico, incorporando a menudo elementos clásicos, entre otros, de forma innovadora en sus canciones. La naturaleza de su enorme popularidad, que había emergido primeramente con la moda de la «Beatlemanía», se transformó al tiempo que sus composiciones se volvieron más sofisticadas. Llegaron a ser percibidos como la encarnación de los ideales progresistas, extendiendo su influencia en las revoluciones sociales y culturales de la década de 1960. Con una formación inicial de cinco componentes que incluía a Lennon, McCartney, Harrison, Stuart Sutcliffe (bajo) y Pete Best (batería), la banda construyó su reputación en los clubes de Liverpool y Hamburgo sobre un período de tres años a partir de 1960. Sutcliffe abandonó la formación en 1961, y Best fue reemplazado por Starr al año siguiente. Establecidos como grupo profesional después de que Brian Epstein les ofreciera ser su representante, y con su potencial musical mejorado por la creatividad del productor George Martin, lograron éxito comercial en el Reino Unido a finales de 1962 con su primer sencillo, «Love Me Do». A partir de ahí, fueron adquiriendo popularidad internacional a lo largo de los siguientes años, en los cuales hicieron un extenso número de giras hasta 1966, año en que cesaron la actividad en vivo para dedicarse únicamente a la grabación en el estudio hasta su disolución en 1970. Después, todos sus integrantes se embarcaron en exitosas carreras independientes de diversa duración. Lennon sería asesinado a las afueras de su casa de Nueva York en 1980, y Harrison fallecería de cáncer en 2001. McCartney y Starr, los dos miembros sobrevivientes, aún permanecen musicalmente activos. Durante sus años de estudio crearon algunos de sus mejores materiales, incluyendo el álbum Sgt. Pepper&#39;s Lonely Hearts Club Band (1967), considerado por muchos como una obra maestra. Cuatro décadas después de su separación, la música que crearon continúa siendo popular. Se mantienen como el grupo con más números uno en las listas británicas, situando más álbumes en esta posición que cualquier otra agrupación musical. De acuerdo con las certificaciones de la RIAA, han vendido más discos en los Estados Unidos que cualquier otro artista. En 2008, la revista Billboard publicó una lista de los artistas más exitosos de todos los tiempos en el Hot 100 con motivo del 50º aniversario de la lista de éxitos, y The Beatles fueron colocados en el número uno. Fueron galardonados con siete premios Grammy, y recibieron un total de quince premios Ivor Novello de parte de la British Academy of Songwriters, Composers and Authors. En 2004, la revista Rolling Stone los clasificó en el número uno en su lista de los «100 artistas más grandes de todos los tiempos». De acuerdo con la misma publicación, la música innovadora de The Beatles y su impacto cultural ayudaron a definir los años sesenta. En 2010, el canal de televisión especializado en música VH1 los clasificó en el número uno en su lista de los «100 artistas más grandes de todos los tiempos». También fueron colocados en el puesto número 1 por el sitio de Internet Acclaimed Music en su lista «The Top 1000 Artists of All Time».</dbo:abstract>
+    <dbo:abstract xml:lang="it">The Beatles è stato un gruppo musicale rock inglese, originario di Liverpool e attivo dal 1960 al 1970. La ha segnato un&#39;epoca nella musica, nel costume, nella moda e nella pop art. Ritenuti un fenomeno di comunicazione di massa di proporzioni mondiali a distanza di vari decenni dal loro scioglimento ufficiale – e dopo la morte di due dei quattro componenti – i Beatles contano ancora un enorme seguito e numerosi sono i loro fan club esistenti in ogni parte del mondo. Secondo una stima del 2001, è risultato in assoluto il gruppo musicale di maggior successo commerciale, con vendite complessive che superano il miliardo di album, dischi e musicassette; mentre secondo altre stime le copie vendute ammontano a 600 milioni, che permettono comunque loro di guadagnare la prima posizione tra gli artisti musicali di maggior successo commerciale. Inoltre, per la rivista Rolling Stone, i Beatles sono i più grandi artisti di tutti i tempi. L&#39;aura che circonda lo sviluppo del loro successo mediatico e che ha favorito la nascita della cosiddetta Beatlemania e lo straordinario esito artistico raggiunto come musicisti rock sono inoltre oggetto di studio di università, psicologi e addetti del settore. Nei loro dieci anni di attività sono stati ufficialmente autori di 211 canzoni.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">The Beatles est un groupe musical britannique originaire de Liverpool, composé de John Lennon, Paul McCartney, George Harrison et Ringo Starr. Il demeure, en dépit de sa séparation en 1970, l&#39;un des groupes de rock les plus populaires au monde. En dix ans d&#39;existence et seulement huit ans de carrière discographique (de 1962 à 1970), les Beatles ont enregistré douze albums originaux et ont composé plus de 200 chansons. Une productivité particulièrement remarquable dans la période 1963-1966, où, entre les tournées incessantes et la participation à deux longs métrages, ils ont publié sept albums, treize singles et douze EPs, par ailleurs emportés dans un phénomène d&#39;ampleur dénommé Beatlemania. Considérées comme la « bande-son » des années 1960, les chansons des Beatles ont marqué leur décennie ainsi que les générations suivantes et leurs mélodies ont été adaptées à de nombreux genres musicaux, notamment le jazz, la salsa, le reggae, la soul ou la musique classique et baroque. Au XXIe siècle, le groupe jouit toujours d&#39;une grande popularité ; ses chansons sont jouées et reprises dans le monde entier. Le duo d&#39;auteurs-compositeurs Lennon/McCartney reste célèbre comme créateur de standards qui ont fait l&#39;objet de milliers d&#39;adaptations dans les décennies suivantes. Les Beatles demeurent les artistes ayant vendu le plus grand nombre de disques au monde. Ce chiffre était déjà estimé par EMI dans les années 1980 à plus d&#39;un milliard de CD, vinyles, et même 78 tours en Inde, vendus à travers la planète, et il a continué à augmenter jusqu&#39;à aujourd&#39;hui atteignant un chiffre supérieur à 2 milliards. Par ailleurs, on a calculé dans les années 1970 qu&#39;à tout moment, l&#39;une des interprétations de la chanson Yesterday (on en dénombre plus de 3 000) était jouée par une radio quelque part dans le monde. « Placés à la proue » de l&#39;évolution de la jeunesse et de la culture populaire des années 1960, leur style, leur habillement, leurs propos, leurs orientations, leur popularité planétaire, leur conscience sociale et politique grandissante au fil du temps, ont étendu l&#39;influence des Beatles bien au-delà de la musique, jusqu&#39;aux révolutions sociales et culturelles de leur époque.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">The Beatles foi uma banda de rock britânica, formada em Liverpool em 1960. É o grupo musical mais bem-sucedido e aclamado da história da música popular. A partir de 1962, o grupo era formado por John Lennon (guitarra rítmica e vocal), Paul McCartney (baixo, piano e vocal), George Harrison (guitarra solo e vocal) e Ringo Starr (bateria e vocal). Enraizada do skiffle e do rock and roll da década de 1950, a banda veio mais tarde a assumir diversos gêneros que vão do folk rock ao rock psicodélico, muitas vezes incorporando elementos da música clássica e outros, em formas inovadoras e criativas. Sua crescente popularidade, que a imprensa britânica chamava de &quot;Beatlemania&quot;, fez com que eles crescessem em sofisticação. Os Beatles vieram a ser percebidos como a encarnação de ideais progressistas e sua influência se estendeu até as revoluções sociais e culturais da década de 1960. Com a formação inicial de Lennon, McCartney, Harrison, Stuart Sutcliffe (baixo) e Pete Best (bateria), os Beatles construíram sua reputação nos pubs de Liverpool e Hamburgo durante um período de três anos a partir de 1960. Sutcliffe deixou o grupo em 61, e Best foi substituído por Starr no ano seguinte. Abastecida de equipamentos profissionais moldados por Brian Epstein, que depois se ofereceu para gerenciar a banda, e com seu potencial reforçado pela criatividade do produtor George Martin, os Beatles alcançaram um sucesso imediato no Reino Unido com seu primeiro single &quot;Love Me Do&quot;. Ganhando popularidade internacional a partir do ano seguinte, excursionaram extensivamente até 1966, quando retiraram-se para trabalhar em estúdio até sua dissolução definitiva em 1970. Cada músico então seguiu para uma carreira independente. McCartney e Starr continuam ativos; Lennon foi assassinado em 1980, e Harrison morreu de câncer em 2001. Durante seus anos de estúdio, os Beatles produziram o que a crítica considera um dos seus melhores materiais, incluindo o álbum Sgt. Pepper&#39;s Lonely Hearts Club Band (1967), amplamente visto como uma obra-prima. Quatro décadas após sua dissolução, a música do grupo continua a ser muito popular. Os Beatles tiveram mais álbuns em número 1 nas paradas britânicas do que qualquer outro grupo musical. De acordo com a RIAA, eles venderam mais álbuns nos Estados Unidos do que qualquer outro artista. Em 2008, a Billboard divulgou uma lista dos top-selling de todos os tempos dos artistas Hot 100 para celebrar o cinquentenário das paradas de singles dos Estados Unidos, e a banda permaneceu em primeiro lugar. Eles já foram honrados com 8 Grammy Awards, e 15 Ivor Novello Awards da BASCA. Segundo estimativas, já venderam entre 600 milhões e mais de 1 bilhão de discos em todo o mundo. Os Beatles foram coletivamente incluídos na compilação da revista Time das 100 pessoas mais importantes e influentes do século XX.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Beatles were an English rock band, formed in Liverpool in 1960. With members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became widely regarded as the foremost and most influential act of the rock era. Rooted in skiffle, beat, and 1950s rock and roll, the Beatles later experimented with several genres, ranging from pop ballads and Indian music to psychedelia and hard rock, often incorporating classical elements in innovative ways. In the early 1960s, their enormous popularity first emerged as &quot;Beatlemania&quot;, but as the group&#39;s music grew in sophistication, led by primary songwriters Lennon and McCartney, they came to be perceived as an embodiment of the ideals shared by the counterculture of the 1960s. The Beatles built their reputation playing clubs in Liverpool and Hamburg over a three-year period from 1960, with Stuart Sutcliffe initially serving as bass player. The core of Lennon, McCartney and Harrison went through a succession of drummers, most notably Pete Best, before asking Starr to join them. Manager Brian Epstein moulded them into a professional act and producer George Martin enhanced their musical potential. They gained popularity in the United Kingdom after their first hit, &quot;Love Me Do&quot;, in late 1962. They acquired the nickname &quot;the Fab Four&quot; as Beatlemania grew in Britain over the following year, and by early 1964 they had become international stars, leading the &quot;British Invasion&quot; of the United States pop market. From 1965 onwards, the Beatles produced what many consider their finest material, including the innovative and widely influential albums Rubber Soul (1965), Revolver (1966), Sgt. Pepper&#39;s Lonely Hearts Club Band (1967), The Beatles (commonly known as the White Album, 1968) and Abbey Road (1969). After their break-up in 1970, they each enjoyed successful musical careers of varying lengths. McCartney and Starr, the surviving members, remain musically active. Lennon was shot and killed in December 1980, and Harrison died of lung cancer in November 2001. According to the RIAA, the Beatles are the best-selling music artists in the United States, with 178 million certified units. They have had more number-one albums on the British charts and sold more singles in the UK than any other act. In 2008, the group topped Billboard magazine&#39;s list of the all-time most successful &quot;Hot 100&quot; artists; as of 2015, they hold the record for most number-one hits on the Hot 100 chart with twenty. They have received ten Grammy Awards, an Academy Award for Best Original Song Score and fifteen Ivor Novello Awards. Collectively included in Time magazine&#39;s compilation of the twentieth century&#39;s 100 most influential people, they are the best-selling band in history, with estimated sales of over 600 million records worldwide. The group was inducted into the Rock and Roll Hall of Fame in 1988, with all four being inducted individually as well from 1994 to 2015.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">The Beatles was een popgroep uit de Engelse stad Liverpool. De groep was actief van 1960 tot 1970 en wordt algemeen beschouwd als een van de meest invloedrijke bands uit de geschiedenis van de popmuziek. De bezetting bestond uit John Lennon, Paul McCartney, George Harrison en Ringo Starr; andere vroege leden waren Stuart Sutcliffe en Pete Best. Al vrij snel na hun doorbraak kregen de leden van The Beatles te maken met hysterische reacties van voornamelijk jonge tienermeisjes, die tijdens concerten de muziek met hun gegil overstemden. Voor dit gedrag raakte de term &quot;Beatlemania&quot; in zwang. Tijdens hun carrière verrichtten ze pionierswerk in de geluidsstudio, waarvoor ze in brede kring lof oogstten. Onder hun invloed groeide de popmuziek uit van een op Amerikaanse rhythm-and-blues gebaseerd genre tot een veel breder georiënteerde muzieksoort. Met de ontwikkeling en de verfijning van hun muziek, geleid door het songwritersduo Lennon-McCartney, werd The Beatles steeds meer beschouwd als belichaming van de gezamenlijke idealen van de sociaal-culturele revoluties tijdens de jaren zestig. The Beatles-leden John Lennon en Paul McCartney waren de belangrijkste liedjesschrijvers van het viertal. De Amerikaanse artiesten die ze bewonderden en die ze als inspiratiebronnen beschouwden waren Chuck Berry, Little Richard, Fats Domino, Elvis Presley, The Everly Brothers, Buddy Holly, de songwriter Smokey Robinson en, na 1964, de folksinger-songwriter Bob Dylan maar ook Harry Nilsson.Tot de bekendste hits van The Beatles behoren: I Want to Hold Your Hand, She Loves You, Yesterday, Michelle, Yellow Submarine, Lucy in the Sky with Diamonds, All You Need Is Love, Hey Jude, Let It Be, Help!, Penny Lane, In My Life en Strawberry Fields Forever. The Beatles is de bestverkopende band in de geschiedenis, met een geschatte omzet van meer dan 600 miljoen platen wereldwijd. De groep staat bovenaan de lijst van de meest succesvolle ‘Hot 100’ kunstenaars aller tijden van het Amerikaanse Billboard Magazine; in 2015 houdt de groep het record voor de meeste nummers-een op de Billboard Hot 100-lijst met twintig. The Beatles kreeg tien Grammy Awards, een Oscar voor beste originele muziek en vijftien Ivor Novello Awards. Collectief is The Beatles opgenomen in de &#39;Time 100: The Most Important People of the Century&#39;, een compilatie van de 100 meest invloedrijke personen van de twintigste eeuw van het tijdschrift Time. The Beatles staat nummer 1 op de lijst van de 100 invloedrijkste artiesten dat door het Amerikaanse muziektijdschrift Rolling Stone werd samengesteld. De groep werd ingewijd in de Rock and Roll Hall of Fame in 1988 en alle vier leden individueel tussen 1994 en 2015. Hun album Sgt. Pepper&#39;s Lonely Hearts Club Band uit 1967 geldt als een mijlpaal in de popgeschiedenis.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">البيتلز (The Beatles؛ /ˈbitlz/‏ ذ بيتلز، منحوتة من beat وbeetles &quot;خنافس&quot;) كانت فرقة روك غنائية بريطانية تشكلت في ليفربول في عام 1960، وأصبحت أكبر الفرق الموسيقية نجاحاً وأشهرها في تاريخ الموسيقى الشعبية . تألف فريق البيتلز من جون لينون (غيتار الإيقاع، غناء) وبول مكارتني (غيتار البيس، غناء) وجورج هاريسون (غيتار رئيسي، غناء) ورينغو ستار (الطبل، غناء). انطلقت شعبية البيتلز الهائلة مع ظاهرة &quot;البيتلمانيا&quot; (Beatlemania) أو &quot;هوس البيتلز&quot; والتي جعلت تأثير البيتلز ليس مجرد تأثير في نطاق الأغاني الشعبية، بل إن نفوذها امتد إلى الثورات الاجتماعية والثقافية في الستينات فكما ان مايكل جاكسون انجح مغني منفرد في التاريخ ,البيتلز هم انجح فرقة موسيقيه في التاريخ بشهادة الأرقام والنقاد أيضاَ. حققت فرقة البيتلز نجاحاً في التيار البريطاني في أواخر عام 1962 مع أول إصدار لها للأغنية المنفردة، &quot;Love Me Do&quot;. وكذلك فإنها اكتسبت شعبيتها العالمية في العام المقبل مع إصدار أولبومها الرسمي الأول &quot;Please Please Me&quot;، وأقاموا حفلات غنائية على نطاق واسع حتى عام 1966، ثم عادوا لتسجيل الألبومات في الاستديو حتى انفصالهم عام 1970. خلال هذه الفترة أنتجت البيتلز 13 ألبوماً رسمباً بالإضافة إلى 5 أفلام. بعد انفصال الفرقة في عام 1970، استمر أعضاء الفرقة بإصدار أعمالهم الفنية المنفردة. بول مكارتني ورينغو ستار ما زالوا يتابعون مشوارهم الفني حتى الوقت الحالي بينما قتل جون لينون بالرصاص في عام 1980، وتوفي هاريسون بمرض سرطان الرئة في عام 2001. في الفترة التي قرر فيها البيتلز الوقف عن التجوال وإقامة الحفلات الغنائية والالتزام بكتابة وتأليف أغاني جديدة في الاستوديو قاموا بإنتاج الألبوم &quot;Sgt. Pepper&#39;s Lonely Hearts Club Band&quot; والذي يعتبر في وجهة نظر النقاد تحفةً فنية وصفحة مهمة جداً في تاريخ الموسيقى. بالرغم من أنه مرّ ما يقرب أربعة عقود على انفصال البيتلز ولكن موسيقاهم ما زالت ولا تزال شعبية. البيتلز كان لها أكبر عدد من الألبومات على أحرزت المرتبة الأولى في المملكة المتحدة واحتفظت باستمرار على صدارة أطول وأكثر من أي موسيقي أو فرقة موسيقية أخرى . ووفقاً لشهادات رابطة صناعة التسجيلات الأمريكية فإن البيتلز حققوا الرقم القياسي لأكثر الألبومات مبيعاً في الولايات المتحدة الأمريكية أكثر من أي فنان آخر . وفي عام 2008 نشرت مجلة بيلبورد قائمة الأكثر مبيعاً في كل الأوقات &quot;هوت 100&quot; احتفالاً بالذكرى السنوية الخمسين لمراتب مبيعات الأغاني المنفردة في الولايات المتحدة وكانت البيتلز في المرتبة الأولى. كما وقد حصلت الفرقة على 7 جوائز جرامي وتلقوا 15 جائزة &quot;ايفور نوفيلو&quot; من الأكاديمية البريطانية لكتاب الاغاني والملحنين. كما وقد أحرزت البيتلز المرتبة الأولى في قائمة &quot;الخالدون&quot; أفضل فناني التاريخ التي أصدرتها مجلة &quot;رولينغ ستون&quot; كما وقد أدرج أحد عشر ألبوماً من أصل الثلاثة عشر ألبوماً الذي أصدرته فرقة البيتلز على قائمة &quot;أفضل 500 ألبوم في تاريخ الموسيقى&quot; التي أصدرتها المجلة ذاتها، وكانت أربع ألبومات منها في ترتيب العشر الأوائل حيث أنها أحرزت المركز الأول والثالث والخامس والعاشر. شملت أيضاً مجلة &quot;تايمز&quot; فرقة البيتلز في قائمة &quot;الأشخاص المائة الأكثر أهمية وتأثيراً في القرن العشرين&quot;</dbo:abstract>
+    <dbo:abstract xml:lang="de">The Beatles waren eine britische Rockband in den 1960er Jahren. Mit mehr als 600 Millionen – nach Schätzungen ihrer Plattenfirma EMI sogar mehr als einer Milliarde – verkauften Tonträgern sind sie die bisher kommerziell erfolgreichste Band der Musikgeschichte. Die musikalischen Ursprünge der Band liegen im Rock ’n’ Roll der ausgehenden 1950er Jahre, in den dann sehr bald Stilelemente der Liverpooler Beatmusik einflossen. Ihre erste Single Love Me Do erschien 1962. Den weltweiten Durchbruch schaffte die Gruppe im Jahr 1963 mit der Single I Want to Hold Your Hand. Aufgrund ihres damals neuartigen Musikstils und ihres öffentlichen Auftretens entwickelten sie sich schnell zu einer der populärsten Bands. Den Höhepunkt ihrer Karriere erreichten die Beatles zwischen 1964 und 1968, als sie zeitweise in fast allen Ländern die Hitparaden anführten. Im Jahr 1970 trennten sich die Wege der vier Bandmitglieder aufgrund interner Spannungen. Die Musiker verfolgten danach erfolgreich eigene Musikprojekte.</dbo:abstract>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1960</dbo:activeYearsStartYear>
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/Billy_Preston" />
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Quarrymen" />
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/Plastic_Ono_Band" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Plastic_Ono_Band" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Billy_Preston" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Quarrymen" />
+    <dbo:background>group_or_band</dbo:background>
+    <dbo:formerBandMember rdf:resource="http://dbpedia.org/resource/Paul_McCartney" />
+    <dbo:formerBandMember rdf:resource="http://dbpedia.org/resource/John_Lennon" />
+    <dbo:formerBandMember rdf:resource="http://dbpedia.org/resource/George_Harrison" />
+    <dbo:formerBandMember rdf:resource="http://dbpedia.org/resource/Ringo_Starr" />
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Pop_music" />
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Rock_music" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Liverpool" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/United_Artists_Records" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/Capitol_Records" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/EMI" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/Apple_Records" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/Polydor_Records" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/Parlophone" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/Vee-Jay_Records" />
+    <dbo:recordLabel rdf:resource="http://dbpedia.org/resource/Swan_Records" />
+    <dbo:soundRecording rdf:resource="http://dbpedia.org/resource/The_Beatles__1" />
+    <dbo:soundRecording rdf:resource="http://dbpedia.org/resource/The_Beatles__2" />
+    <foaf:name xml:lang="en">The Beatles</foaf:name>
+    <foaf:homepage rdf:resource="http://thebeatles.com" />
+    <dbp:name xml:lang="en">The Beatles</dbp:name>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/The_Fabs.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Beatles" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/The_Fabs.JPG?width=300" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Paul_McCartney" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grammy_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Music_Awards_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Brit_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Parlophone_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pioneers_of_music_genres" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Best_Original_Music_Score_Academy_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_psychedelic_rock_music_groups" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Atco_Records_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_pop_music_groups" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Musical_quartets" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grammy_Lifetime_Achievement_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rock_and_Roll_Hall_of_Fame_inductees" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Capitol_Records_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:The_Beatles" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:John_Lennon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_rock_music_groups" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_Harrison" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Musical_groups_disestablished_in_1970" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Apple_Records_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Vee-Jay_Records_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1960_establishments_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Psychedelic_pop_music_groups" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ringo_Starr" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Beat_groups" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Invasion_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1970_disestablishments_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Apple_Corps" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_Artists_Records_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Musical_groups_established_in_1960" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swan_Records_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counterculture_of_the_1960s" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29812</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">707215459</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://hdl.handle.net/1903.1/4593" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=4Yoio9MewhcC&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=JZzwWc6bOlIC&amp;lpg=PP1&amp;dq=Why%20Don&#39;t%20We%20Do%20It%20In%20The%20Road%3F%20The%20Beatles%20Phenomenon&amp;pg=PP1#v=onepage&amp;q&amp;f=true" />
+    <dbo:wikiPageExternalLink rdf:resource="http://money.cnn.com/2005/09/07/technology/personaltech/beatles/index.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.riaa.com/goldandplatinumdata.php?table=tblDiamond" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.riaa.com/goldandplatinumdata.php?table=tblArtTal" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/2/hi/entertainment/1492446.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20060910071729/http:/www.guinnessworldrecords.com/content_pages/record.asp?recordid=50867" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=fts1uK4ceJ8C&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.riaa.com/goldandplatinum.php?content_selector=top-selling-artists" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=qJ1Q7ZeRr5EC&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.reuters.com/article/2009/04/07/us-beatles-remastered-idUSTRE5363RN20090407" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.emimusic.com/news/2009/the-beatles-entire-original-recorded-catalogue-remastered-by-apple-corps-ltd-and-emi-music-for-worldwide-release-on-september-9-2009-9-9-09/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20080623212750/http:/www.rollingstone.com/news/story/5938174/the_rs_500_greatest_albums_of_all_time" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20080822101414/http:/www.time.com/time/time100/artists/profile/beatles.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.latimes.com/entertainment/la-et-beatles8-2009apr08,0,242705.story" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thebeatles.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/radio2/events/60sseason/documentaries/sgtpeppers.shtml#tracklist" />
+    <dbo:wikiPageExternalLink rdf:resource="http://pitchfork.com/reviews/albums/13434-revolver/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.scribd.com/doc/67755284/We-All-Want-to-Change-the-World-Drugs-Politics-and-Spirituality" />
+    <dbo:wikiPageExternalLink rdf:resource="http://pitchfork.com/reviews/albums/13432-the-beatles/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thecmuwebsite.com/article/universal-plans-to-launch-capitol-uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.time.com/time/time100/artists/profile/beatles.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://edition.cnn.com/2000/SHOWBIZ/Music/12/06/beatles.reut/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/media/pda/2008/nov/25/thebeatles-apple" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=yqeIM3MY3gAC&amp;lpg=PA1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://thebeatles.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.guinnessworldrecords.com/content_pages/record.asp?recordid=50867" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thesmokinggun.com/documents/crime/george-harrisons-death-certificate" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=wTZRwz8N9jIC&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://latimesblogs.latimes.com/music_blog/2009/11/meet-the-beatles-usb-drive-emi-files-suit-against-bluebeat-for-selling-beatles-downloads.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=spwdCTYbJP4C&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/artist/the-beatles-mn0000754032" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/with-the-beatles-mw0000192941" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=luOMJFxe-bYC&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/yellow-submarine-mw0000668441" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nj.com/entertainment/music/index.ssf/2009/04/paul_mccartney_ringo_starr_sin.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/please-please-me-mw0000649873" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/rubber-soul-mw0000192940" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/the-beatles-white-album-mw0000418113" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/a-hard-days-night-mw0001948685" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/abbey-road-mw0000192938" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/let-it-be-mw0000192939" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytimes.com/1989/11/10/arts/beatles-and-record-label-reach-pact-and-end-suit.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.allmusic.com/album/magical-mystery-tour-mw0000651227" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rollingstone.com/music/lists/100-greatest-artists-of-all-time-19691231/the-beatles-20110420" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rollingstone.com/music/news/beatles-end-digital-boycott-catalog-now-on-itunes-20101116" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rollingstone.com/news/story/5938174/the_rs_500_greatest_albums_of_all_time" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.webcitation.org/6DaMNbmDo" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=eTkHAldi4bEC&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pbs.org/wgbh/roadshow/fts/chicago_200302A14.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dailymail.co.uk/tvshowbiz/article-2123764/Madonna-sets-new-record-No-1-albums-solo-singer-new-release-MDNA.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.accessatlanta.com/news/entertainment/music/beatles-atlanta-show-made-history-in-more-ways-tha/nQyrz/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=_WoRAPJQ58sC&amp;printsec=frontcover&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=UwvYhxcBr5oC" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=UmrVa2U7jB0C&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.officialcharts.com/chart-news/the-official-singles-charts-biggest-selling-artists-of-all-time-revealed-1431/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=WpsszVLFsMEC&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.billboard.com/articles/news/1044523/hot-100-anniversary-most-no-1s-by-artist" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.billboard.com/articles/news/267481/paul-mccartney-the-billboard-qa" />
+    <dbo:wikiPageExternalLink rdf:resource="http://vault.fbi.gov/The%20Beatles" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nme.com/news/beatles/24534" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=QHtMYEl4QxsC&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=LdsMqbAQJWgC&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=OSZKCXtx-wEC&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=HWSRvGfa3-sC&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=KLNVmbXDZIcC&amp;lpg=PP1&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.grammy.com/nominees/search?artist=Beatles&amp;title=&amp;year=All&amp;genre=All" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bpi.co.uk/certifiedawards/search.aspx" />
+    <dbo:wikiPageExternalLink rdf:resource="http://uk.reuters.com/article/2008/11/17/music-us-beatles-idUKTRE4AG64Y20081117" />
+    <dbo:wikiPageExternalLink rdf:resource="http://rockhall.com/inductees/the-beatles/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20091007072418/http:/www.mojo4music.com/blog/2009/09/beatles_remasters_reviewed.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cnn.com/2009/SHOWBIZ/Music/09/04/beatles.999/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mojo4music.com/blog/2009/09/beatles_remasters_reviewed.html" />
+    <dbp:associatedActs xml:lang="en">*</dbp:associatedActs>
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/Plastic_Ono_Band" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/Billy_Preston" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Quarrymen" />
+    <dbp:background xml:lang="en">group_or_band</dbp:background>
+    <dbp:description xml:lang="en">Sample of &quot;Norwegian Wood&quot; from Rubber Soul . Harrison&#39;s use of a sitar on this song is representative of the Beatles&#39; incorporation of unconventional instrumentation into rock music.</dbp:description>
+    <dbp:description xml:lang="en">Sample of &quot;Eleanor Rigby&quot; from Revolver . The album involves innovative compositional approaches, arrangements and recording techniques. This song, primarily written by McCartney, prominently features classical strings in a novel fusion of musical styles.</dbp:description>
+    <dbp:filename xml:lang="en">Beatles norwegian wood.ogg</dbp:filename>
+    <dbp:filename xml:lang="en">Beatles eleanor rigby.ogg</dbp:filename>
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/Pop_music" />
+    <dbp:genre rdf:resource="http://dbpedia.org/resource/Rock_music" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Capitol_Records" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/EMI" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/United_Artists_Records" />
+    <dbp:label xml:lang="en">*</dbp:label>
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Apple_Records" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Polydor_Records" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Parlophone" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Vee-Jay_Records" />
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Swan_Records" />
+    <dbp:origin xml:lang="en">Liverpool, England, United Kingdom</dbp:origin>
+    <dbp:pastMembers xml:lang="en">* John Lennon
+* Paul McCartney
+* George Harrison
+* Ringo Starr
+See [[#Members</dbp:pastMembers>
+    <dbp:title xml:lang="en">&quot;Norwegian Wood &quot;</dbp:title>
+    <dbp:title xml:lang="en">&quot;Eleanor Rigby&quot;</dbp:title>
+    <dbp:website rdf:resource="http://thebeatles.com" />
+    <dbp:yearsActive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1960</dbp:yearsActive>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traveling_Wilburys">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dig_It_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Getting_Better">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Introducing..._The_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Run_for_Your_Life">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_Second_Album">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Compleat_Beatles">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You&#39;ll_Be_Mine_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_in_Mono">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:picture rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Money_(That&#39;s_What_I_Want)__Money__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Bonnie__My_Bonnie__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nowhere_Man_(song)__Nowhere_Man__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Real_Love_(Beatles_song)__Real_Love__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_and_Roll_Music__Rock_and_Roll_Music__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_Goes_On_(Beatles_song)__What_Goes_On__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Shot_of_Rhythm_and_Blues__A_Shot_of_Rhythm_and_Blues__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_in_Love_(Lennon–McCartney_song)__I&#39;m_in_Love__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathy_McCord">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_Together_Now_(film)">
+    <dbo:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extracts_from_the_Album_A_Hard_Day&#39;s_Night">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Get_Back">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linda_McCartney">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Now_and_Then_(John_Lennon_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dirty_Mac">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mean_Mr._Mustard">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Across_the_Universe">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Across_the_Universe_(film)">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Help!_(film)">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Help!_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_(TV_series)">
+    <dbo:composer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:composer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:themeMusicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Quickly">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomorrow_Never_Knows">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Follow_the_Sun">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mono_Masters">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_Me_Do">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_King_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Continuing_Story_of_Bungalow_Bill">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_(Beatles_song)__Julia__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Taste_of_Honey_(song)__A_Taste_of_Honey__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Act_Naturally__Act_Naturally__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/And_I_Love_Her__And_I_Love_Her__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_(Go_to_Him)__Anna_Go_to_Him__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_Boy_(Larry_Williams_song)__Bad_Boy__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chains_(Cookies_song)__Chains__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Devil_in_His_Heart__Devil_in_Her_Heart__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dizzy,_Miss_Lizzy__Dizzy_Miss_Lizzy__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Do_You_Want_to_Know_a_Secret%3F__Do_You_Want_to_Know_a_Secret%3F__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey-Hey-Hey-Hey!__Kansas_City/Hey,_Hey,_Hey,_Hey__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honey_Don&#39;t__Honey_Don&#39;t__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Cry_Instead__I&#39;ll_Cry_Instead__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Happy_Just_to_Dance_with_You__I&#39;m_Happy_Just_to_Dance_with_You__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Don&#39;t_Want_to_Spoil_the_Party__I_Don&#39;t_Want_to_Spoil_the_Party__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Saw_Her_Standing_There__I_Saw_Her_Standing_There__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Should_Have_Known_Better__I_Should_Have_Known_Better__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Wanna_Be_Your_Man__I_Wanna_Be_Your_Man__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/If_I_Fell__If_I_Fell__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long_Tall_Sally__Long_Tall_Sally__2">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matchbox_(song)__Matchbox__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sgt._Pepper&#39;s_Lonely_Hearts_Club_Band_(song)__Sgt._Pepper&#39;s_Lonely_Hearts_Club_Band%22/%22With_a_Lit__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slow_Down_(Larry_Williams_song)__Slow_Down__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/There&#39;s_a_Place__There&#39;s_a_Place__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Till_There_Was_You__&#39;Til_There_Was_You__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Words_of_Love__Words_of_Love__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You&#39;ve_Got_to_Hide_Your_Love_Away__You&#39;ve_Got_to_Hide_Your_Love_Away__1">
+    <dbo:producer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You&#39;ve_Really_Got_a_Hold_on_Me__You_Really_Got_a_Hold_on_Me__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Can&#39;t_Do_That__You_Can&#39;t_Do_That__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thinking_of_Linking">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outfakes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Got_to_Get_You_into_My_Life__Got_to_Get_You_into_My_Life__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pop_Go_The_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby_It&#39;s_You">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Because_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boys_(The_Shirelles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Morning_Good_Morning">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_Voormann">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_at_the_BBC_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Money_(That&#39;s_What_I_Want)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Bonnie">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octopus&#39;s_Garden">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oh!_Darling">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roy_Young_(musician)">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_End_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Why_(Tony_Sheridan_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yesterday_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yesterday_(EP)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Here,_There_and_Everywhere">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Long_and_Winding_Road">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Back_in_the_U.S.S.R.">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Commonwealth_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_You_Need_Is_Love">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cayenne_(instrumental)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Day_Sunshine">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_in_Love_(Lennon–McCartney_song)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Need_You_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Two_of_Us_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grapefruit_(band)">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WIIN">
+    <dbo:programmeFormat rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Happiness_Is_a_Warm_Gun">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Sheridan">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Know_My_Name_(Look_Up_the_Number)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_&#39;65">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Império">
+    <dbo:composer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:themeMusicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cry_for_a_Shadow">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golden_Slumbers">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Bootleg_Recordings_1963">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles,_The">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outfake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/If_You_Love_Me,_Baby">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Want_You_(She&#39;s_So_Heavy)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Hard_Day&#39;s_Night_(film)">
+    <dbo:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:starring rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Hard_Day&#39;s_Night_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_White_(drummer)">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don&#39;t_Let_Me_Down_(Beatles_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Will">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmie_Nicol">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misery_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rarities_(Beatles_compilations)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tell_Me_Why_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_to_Me">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greatest_Hits_Volume_1_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_First">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_Hits">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_at_the_Hollywood_Bowl">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twist_and_Shout_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It_Won&#39;t_Be_Long">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twist_and_Shout">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_(The_Original_Studio_Recordings)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yer_Blues">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthology_3">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_After_909">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long_Tall_Sally_(EP)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Shot_of_Rhythm_and_Blues">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beetal">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_for_Sale_(No._2)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Live_Recordings">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Like_Dreamers_Do">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Gentle">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Williams">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ask_Me_Why">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ronettes">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1967–1970">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apple_Corps">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:owningCompany rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She_Loves_You">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Me_Mine">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Within_You_Without_You">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/For_You_Blue">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polythene_Pam">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/She_Came_In_Through_the_Bathroom_Window">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don&#39;t_Bother_Me">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carnival_of_Light">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Feel_Fine">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Please_Please_Me_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carry_That_Weight">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Capitol_Albums,_Volume_2">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Fitzpatrick">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansas_City_(Leiber_and_Stoller_song)__Kansas_City/Hey,_Hey,_Hey,_Hey__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Be_on_My_Way__I&#39;ll_Be_on_My_Way__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Some_Other_Guy__Some_Other_Guy__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Silver_Beetles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extracts_from_the_Film_A_Hard_Day&#39;s_Night">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keep_Your_Hands_Off_My_Baby__Keep_Your_Hands_Off_My_Baby__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_Things_Must_Pass_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_(Go_to_Him)">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Jay_Way">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_My_Life">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long,_Long,_Long">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_You_To">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Please_Mr._Postman">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Inner_Light_(song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_May_(folk_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Not_Guilty_(song)">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sexy_Sadie">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_J._Kramer">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heather_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucy_in_the_Sky_with_Diamonds">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicky_Hopkins">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_(Beatles_song)">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_9">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sgt._Pepper&#39;s_Lonely_Hearts_Club_Band_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Day_Tripper">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/If_You&#39;ve_Got_Trouble">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Kosh">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Por_Siempre_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Every_Little_Thing_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Know_What_to_Do">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Preston">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/For_No_One">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/And_Your_Bird_Can_Sing">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Only_Sleeping">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ve_Got_a_Feeling">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_Story">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Think_for_Yourself">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Won&#39;t_See_Me">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drive_My_Car">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ob-La-Di,_Ob-La-Da">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live!_at_the_Star-Club_in_Hamburg,_Germany;_1962">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ballad_of_John_and_Yoko">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Day_in_the_Life__A_Day_in_the_Life__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Get_Back__Get_Back__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_(Beatles_song)__Revolution_1__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends__Sgt._Pepper&#39;s_Lonely_Hearts_Club_Band%22/%22With_a_Lit__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yesterday_(Beatles_song)__Yesterday__1">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_the_Beatles&#39;_live_performances">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/That_Means_a_Lot">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby_It&#39;s_You__Baby_It&#39;s_You__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Come_and_Get_It_(Badfinger_song)__Come_and_Get_It__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Box_Set">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Collection">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Wanna_Hold_Your_Hand_(film)">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:music rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingólfur_Margeirsson">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_McCartney:_Many_Years_from_Now">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_The_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Los_Beatles_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey_Jude">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbey_Road">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_VI">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flying_(Beatles_instrumental)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girl_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_the_Beginning_(Circa_1960)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norwegian_Wood_(This_Bird_Has_Flown)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Please_Please_Me">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What&#39;s_the_New_Mary_Jane">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Quarrymen">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Fury">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Night_(Beatles_song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey-Hey-Hey-Hey!">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_Songs_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shampoo_(parody_band)">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ticket_to_Ride">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Come_Together">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr._Moonlight_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thank_You_Girl">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fool_on_the_Hill">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Past_Masters">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_with_Tony_Sheridan_and_Their_Guests">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthology_1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthology_2">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Capitol_Albums,_Volume_1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby,_You&#39;re_a_Rich_Man">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Devil_in_His_Heart">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doctor_Robert">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don&#39;t_Pass_Me_By">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey_Bulldog">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Get_You">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/If_I_Needed_Someone">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roll_Over_Beethoven">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Movie_Medley">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Your_Mother_Should_Know">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fabulous_Silver_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles,_the">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Martin">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_(album)">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Hard_Day&#39;s_Night_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_for_Sale">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Jones">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Help!_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolver_(Beatles_album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rubber_Soul">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rutles">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/With_the_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apple_Boutique">
+    <dbo:foundedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KRTH">
+    <dbo:programmeFormat rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leave_My_Kitten_Alone">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_(No._1)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Compilation_Deluxe">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Silver_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghost_of_the_Robot">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magical_Mystery_Tour_(film)">
+    <dbo:composer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:director rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:director rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/On_Air_–_Live_at_the_BBC_Volume_2">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Early_Tapes_of_the_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Till_There_Was_You">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Like_Me_Too_Much">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Free_as_a_Bird">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Gallinger">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:influences rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;ll_Be_Back_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peace_of_Mind/The_Candle_Burns">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sound_City_Players">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twist_and_Shout_(EP)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Down">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Got_to_Find_My_Baby">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You&#39;re_Going_to_Lose_That_Girl">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey_Jude_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honey_Don&#39;t">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You&#39;ve_Really_Got_a_Hold_on_Me">
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Very_Together">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fab_4">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fab_Four">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apple_Records">
+    <dbo:foundedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cultural_impact_of_the_Beatles">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_discography">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4-by_the_Beatles">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Act_Naturally">
+    <dbo:musicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:musicalBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_Bop_–_Hamburg_Days">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magical_Mystery_Tour_(song)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/While_My_Guitar_Gently_Weeps">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatnix">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronnie_Schneider">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:associatedActs rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles&#39;_Christmas_records">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_(band)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Tapes_from_the_David_Wigg_Interviews">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_at_Shea_Stadium">
+    <dbo:musicComposer rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles:_The_Biography">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Box">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silver_Beetles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_BEATLES">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Rems">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:influences rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirque_du_Soleil_discography__Love:_Special_Edition__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirque_du_Soleil_discography__Love__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_in_the_Head">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_in_the_United_States">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Like_Dreamers_Do__Like_Dreamers_Do__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Step_Inside_Love__/Los_Paranoias__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Love_You_Make">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Got_to_Get_You_into_My_Life">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jolly_What!">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sara_Chang">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:influences rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beetles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Beginning">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fab4">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Saw_Her_Standing_There_(album)">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatles_Anthology_(book)">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+    <dbp:author rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fab_four">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_and_the_Moondogs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Just_Don&#39;t_Understand__I_Just_Don&#39;t_Understand__1">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beetals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Beatle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_And_The_Moondogs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Die_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_paul_george_ringo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatals">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_and_The_Moondogs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nerk_Twins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silver_Beatles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silver_Beats">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fab_Four">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Nerk_Twins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Silver_Beats">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatles_music">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bealtes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/The_Beatles">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/The_Beatles" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,5 +1,9 @@
 trash/
 results/
+*Rhistory
+*.sqlite
+
+data/
 
 
 

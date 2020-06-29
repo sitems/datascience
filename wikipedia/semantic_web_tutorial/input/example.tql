@@ -1,0 +1,8 @@
+@prefix eric:    <http://www.w3.org/People/EM/contact#> .
+@prefix contact: <http://www.w3.org/2000/10/swap/pim/contact#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+eric:me contact:fullName "Eric Miller" .
+eric:me contact:mailbox <mailto:e.miller123(at)example> .
+eric:me contact:personalTitle "Dr." .
+eric:me rdf:type contact:Person .
